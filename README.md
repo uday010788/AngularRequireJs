@@ -1,7 +1,7 @@
-AngularJS by Example
+AngularJS by blog Example
 ===
 
-An application to demonstrate various real world AngularJS best practices and to compliment a tutorial series written on [revillweb.com](http://www.revillweb.com/).
+An application to demonstrate blog
 
 Contributing
 ===
